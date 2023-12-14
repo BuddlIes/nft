@@ -16,6 +16,8 @@
 NFT를 통한 리워드 차등 지급으로 봉사에 대한 참여도를 향상시켜 종합적으로는 교내 장애인 학우를 위한 봉사 활동 장려 웹 개발을 하게 됐습니다.<br/><br/>
 
 # Team BlockChain
+<img width="250px" src="https://avatars.githubusercontent.com/u/141641630?s=400&u=b94b2dd8aa16729e8fd0ccce1567e2588cb9eb0d&v=4"/>
+<br/><br/>
 |[이수찬](https://github.com/XXUCHAN)|
 
 |NFT개발 및 총무|
@@ -49,13 +51,6 @@ NFT를 통한 리워드 차등 지급으로 봉사에 대한 참여도를 향상
 
 <div align="center">
   
-# 📜 Rules 📜
-
-</div>
-
-## Navigation
-1. [Branch Rules](#branch-rules)
-2. [Commit Rules](#commit-rules)<br/><br/>
 
 
 <div align="center">
